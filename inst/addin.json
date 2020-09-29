@@ -1,0 +1,5 @@
+[{
+"file":"./src/pages/_app.js",
+"selector":false,
+"replacement":"\nimport '../semantic/semantic.less';\n"
+}]
