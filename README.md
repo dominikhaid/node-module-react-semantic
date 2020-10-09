@@ -21,8 +21,8 @@ This module is developed to extend our base server. It can be easily installed w
 > 
 > cd my-app
 > 
-> npm run plguin p=https://github.com/dominikhaid/node-module-next.git
+> npm run plugin p=https://github.com/dominikhaid/node-module-next.git
 > 
-> npm run plguin p=https://github.com/dominikhaid/node-module-react-semantic.git
+> npm run plugin p=https://github.com/dominikhaid/node-module-react-semantic.git
 > 
 > npm run dev
